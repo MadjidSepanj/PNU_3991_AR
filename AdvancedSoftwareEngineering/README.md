@@ -1,12 +1,12 @@
 # [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
 <div dir="rtl">
     
-# سحر زینی وند
-- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
-- [Resume](https://saharzeinivand.github.io/Resume/) 
-- [SOP](https://saharzeinivand.github.io/SOP/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
+# مجید رضا سپنج
+- [PNU_3991](https://github.com/MadjidSepanj/PNU_3991)
+- [Resume](https://MadjidSepanj.github.io/Resume/) 
+- [SOP]()
+- [Certificates](https://MadjidSepanj.github.io/Certificates/)
+- [GitHub](https://github.com/MadjidSepanj)
 --------------------------
 ## سیاهه ارزشیابی درس
 
@@ -25,10 +25,12 @@
 
 ## گروه
 
-1. G-A01
-    1. [_ASE-02_فهيمه ابوحمزه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/02_%D9%81%D9%87%D9%8A%D9%85%D9%87%20%D8%A7%D8%A8%D9%88%D8%AD%D9%85%D8%B2%D9%87)
-    1. [_ASE-11_عليرضا خواجه گي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/11_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%AE%D9%88%D8%A7%D8%AC%D9%87%20%DA%AF%D9%8A)
-    1. [_ASE-14_سحر زيني وندمقدم](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/14_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)       
-    1. [_ASE-19_كلثوم محمدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/19_%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A)
+4. G-S04
+    1. [_SA-01_اميد اكبرزاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/01_%D8%A7%D9%85%D9%8A%D8%AF%20%D8%A7%D9%83%D8%A8%D8%B1%D8%B2%D8%A7%D8%AF%D9%87) 
+    1. [_SA-09_زهرا جمشيدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/09_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A)      
+    1. [_SA-25_سيدرضا علويان زو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/25_%D8%B3%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B9%D9%84%D9%88%D9%8A%D8%A7%D9%86%20%D8%B2%D9%88)    
+    1. [_SA-07_سپهر ترابي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/07_%D8%B3%D9%BE%D9%87%D8%B1%20%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A) 
+    1. [_SA-21_مجید رضا سه پنج](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/21_%D9%85%D8%AC%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B3%D9%87%20%D9%BE%D9%86%D8%AC)
+    1. [_SA-12_شهرام دربندي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/12_%D8%B4%D9%87%D8%B1%D8%A7%D9%85%20%D8%AF%D8%B1%D8%A8%D9%86%D8%AF%D9%8A)
 -----------------------
 </div>
