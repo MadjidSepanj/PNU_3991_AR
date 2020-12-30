@@ -15,7 +15,7 @@
 
 --------------
 
-## CHAPTER 7_Architectures
+## CHAPTER 10_Architectures
 
 - [Visualizing Software Architectures]()
 ---------------------------
