@@ -1,17 +1,17 @@
-# [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
+# [PNU_3991_AR](https://github.com/MadjidSepanj/PNU_3991_AR)
 
 <div dir="rtl">
 
-# سحر زینی وند
-- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
-- [Resume](https://saharzeinivand.github.io/Resume/) 
-- [SOP](https://saharzeinivand.github.io/SOP/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
+# مجید رضا سپنج
+- [PNU_3991](https://github.com/MadjidSepanj/PNU_3991)
+- [Resume](https://MadjidSepanj.github.io/Resume/) 
+- [SOP]()
+- [Certificates](https://MadjidSepanj.github.io/Certificates/)
+- [GitHub](https://github.com/MadjidSepanj)
 -------------------
 ## Implementation_Java Script
 
-- [Implementation_Abstract Factory pattern](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture/abstract%20factory)
+- [Implementation_Interpreter pattern](https://github.com/MadjidSepanj/PNU_3991_AR/tree/main/SoftwareArchitecture/Interpreter%20Pattern)
 
 --------------
 
@@ -31,24 +31,24 @@
 
 2. **ها با جاوا اسکریپت paternپیاده سازی** 
 
-    - **G-SA-01** : Abstract Factory pattern + Builder pattern + Factory Method pattern + Singleton pattern + Prototype pattern + Adapter pattern
+    - **G-SA-04** : Interpreter pattern
 
 3.  **ارائه کتاب**
    - هر گروه 2 فصل از کتاب ریچارد
      
         ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
 
-   - **G-SA-01** : Chapter 1 + Chapter 7
+   - **G-SA-04** : Chapter 10
 ----------------
 ## گروه ها
 
-1. G-S01
-     1. [_SA-10_پروانه خاني همت اباد_Adapter pattern_Chapter 1](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/10_%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87%20%D8%AE%D8%A7%D9%86%D9%8A%20%D9%87%D9%85%D8%AA%20%D8%A7%D8%A8%D8%A7%D8%AF)   
-    1. [_SA-18_سامره زارع_Builder pattern_Chapter 1](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/18_%D8%B3%D8%A7%D9%85%D8%B1%D9%87%20%D8%B2%D8%A7%D8%B1%D8%B9) 
-    1. [_SA-19_سحر زيني وندمقدم_Abstract Factory pattern_Chapter 7](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/19_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)       
-    1. [_SA-20_عليرضا سعيدي پور_Factory Method pattern_Chapter 7](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/20_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A%20%D9%BE%D9%88%D8%B1)    
-    1. [_SA-27_كلثوم محمدي_Singleton pattern_Chapter 7](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/27_%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A) 
-    1. [_SA-30_علي مهرايي_Prototype pattern_Chapter 7](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/30_%D8%B9%D9%84%D9%8A%20%D9%85%D9%87%D8%B1%D8%A7%D9%8A%D9%8A) 
+1. G-S04
+    1. [_SA-01_اميد اكبرزاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/01_%D8%A7%D9%85%D9%8A%D8%AF%20%D8%A7%D9%83%D8%A8%D8%B1%D8%B2%D8%A7%D8%AF%D9%87) 
+    1. [_SA-09_زهرا جمشيدي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/09_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%AC%D9%85%D8%B4%D9%8A%D8%AF%D9%8A)      
+    1. [_SA-25_سيدرضا علويان زو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/25_%D8%B3%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B9%D9%84%D9%88%D9%8A%D8%A7%D9%86%20%D8%B2%D9%88)    
+    1. [_SA-07_سپهر ترابي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/07_%D8%B3%D9%BE%D9%87%D8%B1%20%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A) 
+    1. [_SA-21_مجید رضا سه پنج](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/21_%D9%85%D8%AC%D9%8A%D8%AF%D8%B1%D8%B6%D8%A7%20%D8%B3%D9%87%20%D9%BE%D9%86%D8%AC)
+    1. [_SA-12_شهرام دربندي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture/1115280_01/12_%D8%B4%D9%87%D8%B1%D8%A7%D9%85%20%D8%AF%D8%B1%D8%A8%D9%86%D8%AF%D9%8A)  
        
      
            
