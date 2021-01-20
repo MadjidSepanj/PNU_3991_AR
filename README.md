@@ -9,22 +9,25 @@
 - [SOP]()
 - [Certificates](https://MadjidSepanj.github.io/Certificates/)
 - [GitHub](https://github.com/MadjidSepanj)
---------------------------
-## سیاهه ارزشیابی درس
+------------------
+> ارزیابی ها
 
-1. **فعالیت های مشترک همه دانشجویان**
-    1. ساخت اکانت گیت هاب
-    2. [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
-    3. ارائه رزومه
-    4. ارائه انگیزه نامه
-    5. ایجاد ریپازیتوری PNU_3991_AR
-    6. [گذراندن دوره js از سایت سولولرن](http://Sololearn.com)
-    7. مشارکت در گروهای درسی
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/MadjidSepanj/PNU_3991_AR/blob/main/_General/MS_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
 
-
-    
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/MadjidSepanj/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/MS_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/MadjidSepanj/PNU_3991_AR/blob/main/SoftwareArchitecture/MS_SoftwareArchitecture_CheckList_AR_3991.pdf
 -------------------------
+## فهرست درس ها  
 
+[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/MadjidSepanj/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+<br>
+[1115280_01	معماري نرم افزار	3](https://github.com/MadjidSepanj/PNU_3991_AR/tree/main/SoftwareArchitecture)
+
+
+--------------
 ## گروه
 
 1. G-A04
