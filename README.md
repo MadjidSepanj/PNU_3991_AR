@@ -18,7 +18,7 @@
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/MadjidSepanj/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/MS_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/MadjidSepanj/PNU_3991_AR/blob/main/SoftwareArchitecture/MS_SoftwareArchitecture_CheckList_AR_3991.pdf
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/MadjidSepanj/PNU_3991_AR/blob/main/SoftwareArchitecture/MS_SoftwareArchitecture_CheckList_AR_3991.pdf)
 -------------------------
 ## فهرست درس ها  
 
